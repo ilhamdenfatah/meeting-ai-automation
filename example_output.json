@@ -1,0 +1,26 @@
+{
+  "summary": "The team discussed the landing page update, aiming for finalization by Friday. Anna will prepare the revised copy by tomorrow afternoon, which Derek will then use to coordinate with design. Andrew is tasked with reviewing analytics to identify sections with high drop-off rates. A follow-up meeting is scheduled for next Monday to ensure all updates are ready before launch.",
+  "action_items": [
+    {
+      "owner": "Anna",
+      "task": "Prepare the revised copy for the landing page",
+      "deadline": "tomorrow afternoon",
+      "priority": "High"
+    },
+    {
+      "owner": "Andrew",
+      "task": "Review analytics and identify which section has the highest drop-off",
+      "deadline": null,
+      "priority": "Medium"
+    },
+    {
+      "owner": "Derek",
+      "task": "Coordinate with design once Anna finishes the copy",
+      "deadline": null,
+      "priority": "High"
+    }
+  ],
+  "next_steps": [
+    "Align again next Monday to ensure updates are ready before launch."
+  ]
+}
