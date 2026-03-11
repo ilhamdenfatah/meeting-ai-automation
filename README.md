@@ -68,33 +68,23 @@ This demonstrates how AI-generated insights can be connected to automation tools
 
 ## 🧠 System Architecture
 
+```
 Meeting Transcript
-        
         ↓
-
 Python Script (app.py)
-        
         ↓
-
 Gemini AI
-        
         ↓
-
 Structured JSON Output
-        
         ↓
-
 n8n Webhook
-        
         ↓
-
 Automation Workflow
-        
         ↓
-        
 Response returned to Python
 
 This pipeline shows a simple pattern for integrating LLM-generated insights with automation systems.
+```
 
 ---
 
@@ -157,7 +147,7 @@ Create a .env file based on .env.example.
 
 Example:
 
-> GEMINI_API_KEY=your_api_key_here
+> GEMINI_API_KEY=put_api_key_here
 > N8N_WEBHOOK_URL=http://localhost:5678/webhook/meeting-agent
 
 ### 4. Run the script
