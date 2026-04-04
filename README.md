@@ -197,7 +197,7 @@ Possible integrations include:
 
 Ilham Den Fatah
 
-Business Data Analyst with Applied AI capabilities
+AI Automation Builder & Decision Systems Engineer
 
 ---
 
